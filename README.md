@@ -10,7 +10,7 @@ I have been learning to code since 2017. Currently I am a student at Singapore M
 * ✉️  You can contact me at [limyouzhen@gmail.com](mailto:limyouzhen@gmail.com)
 * 🧠  I'm learning JavaScript & Vue
 * 🤝  I'm open to collaborating on any projects that I can help on
-* ⚡  I like to read about philosophy :)
+* ⚡  I like to read about psychology and philosophy :)
 
 ### Skills
 
